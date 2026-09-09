@@ -6,10 +6,10 @@ const HOST = 'localhost'
 const PORT = 3000
 
 app.get('/hello', (req, res)=> {
-    res.status(200).json({name: "Sviatoslav"})
+    res.status(200).json({name: "Nikita"})
 })
 app.get('/hello1', (req, res)=> {
-    res.status(200).json({name: "Sviatoslav"})
+    res.status(200).json({name: "Nikita"})
 })
 
 
