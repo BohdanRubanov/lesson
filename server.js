@@ -8,7 +8,7 @@ const PORT = 3000
 app.get('/hello', (req, res)=> {
     res.status(200).json({name: "Sviatoslav"})
 })
-app.get('/hello1', (req, res)=> {
+app.get('asd', (req, res)=> {
     res.status(200).json({name: "Sviatoslav"})
 })
 
