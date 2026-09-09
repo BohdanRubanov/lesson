@@ -21,10 +21,3 @@ app.listen(PORT, HOST, () => {
     console.log(`http://${HOST}:${PORT}`)
 })
 
-main 
-
-feat/add-product-endpoint
-
-fix/db 
-
-refactor/changed 
